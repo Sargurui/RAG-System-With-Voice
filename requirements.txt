@@ -1,0 +1,15 @@
+Flask==2.3.2
+requests==2.31.0
+beautifulsoup4==4.12.2
+pytubefix==12.1.0
+whisper==1.0
+torch==2.0.1
+googletrans==4.0.0-rc1
+langchain==0.0.208
+langchain-community==0.0.5
+langchain-core==0.0.5
+langchain-groq==0.0.2
+langchain-openai==0.0.5
+faiss-cpu==1.7.4
+python-dotenv==1.0.0
+pandas==2.1.1
