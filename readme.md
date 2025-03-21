@@ -1,15 +1,10 @@
 # RAG System With Voice 
 
 
-## Demo Videos
-[Watch Video 1](https://drive.google.com/file/d/1pRIGDJj_8w_RqVjrwfT9rVccn4vGLS1H/view?usp=drive_link)
-[Watch Video 1](https://drive.google.com/file/d/1ZNl0Fi9Y_1eHOQcrTX3AjPMIHap3IUme/view?usp=drive_link)
-
-
-<video width="640" height="360" controls>
-  <source src="video/video_2.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Screenshot](/images/img_1.png)
+![Screenshot](/images/img_2.png)
+![Screenshot](/images/img_3.png)
+![Screenshot](/images/img_4.png)
 
 This project is a Flask-based platform that integrates various functionalities such as document processing, YouTube transcription, web scraping, and querying using advanced language models. It is designed to handle multiple document types and provide intelligent responses to user queries.
 
@@ -63,10 +58,6 @@ This project is a Flask-based platform that integrates various functionalities s
      # HUGGINGFACEHUB_API_TOKEN=<your_huggingfacehub_api_token>
      ```
 
-5. Create the `uploads` folder:
-   ```bash
-   mkdir uploads
-   ```
 
 ### Running the Application
 
