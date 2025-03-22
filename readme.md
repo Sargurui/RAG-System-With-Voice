@@ -1,10 +1,15 @@
 # RAG System With Voice 
 
 
-![Screenshot](/images/img_1.png)
-![Screenshot](/images/img_2.png)
-![Screenshot](/images/img_3.png)
-![Screenshot](/images/img_4.png)
+
+
+
+https://github.com/user-attachments/assets/4781f5c4-0dd5-41d7-b5bd-ac9eda091b79
+
+
+https://github.com/user-attachments/assets/43eb05f0-d7dc-4eb0-bf5f-5500051d4a18
+
+
 
 This project is a Flask-based platform that integrates various functionalities such as document processing, YouTube transcription, web scraping, and querying using advanced language models. It is designed to handle multiple document types and provide intelligent responses to user queries.
 
@@ -123,3 +128,8 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 - [Whisper](https://github.com/openai/whisper)
 - [FAISS](https://github.com/facebookresearch/faiss)
 - [PyTube](https://github.com/pytube/pytube)
+
+![Screenshot](/images/img_1.png)
+![Screenshot](/images/img_2.png)
+![Screenshot](/images/img_3.png)
+![Screenshot](/images/img_4.png)
